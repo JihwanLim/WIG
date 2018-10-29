@@ -1,0 +1,2 @@
+# WIG
+weather information getter
